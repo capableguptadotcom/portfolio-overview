@@ -1,0 +1,51 @@
+{
+  "fetchedAt": "2026-09-15T19:59:27Z",
+  "assets": [
+    {
+      "symbol": "VTI",
+      "name": "U.S. total stock market",
+      "asOf": "2026-09-15",
+      "price": 372.78,
+      "weekChange": -1.2765,
+      "drawdown": -2.9977,
+      "source": "https://query1.finance.yahoo.com/v8/finance/chart/VTI?range=1y&interval=1d"
+    },
+    {
+      "symbol": "VXUS",
+      "name": "International stocks",
+      "asOf": "2026-09-15",
+      "price": 85.68,
+      "weekChange": -2.7248,
+      "drawdown": -3.0879,
+      "source": "https://query1.finance.yahoo.com/v8/finance/chart/VXUS?range=1y&interval=1d"
+    },
+    {
+      "symbol": "QQQM",
+      "name": "Nasdaq-100",
+      "asOf": "2026-09-15",
+      "price": 290.05,
+      "weekChange": -1.9306,
+      "drawdown": -5.4827,
+      "source": "https://query1.finance.yahoo.com/v8/finance/chart/QQQM?range=1y&interval=1d"
+    },
+    {
+      "symbol": "BND",
+      "name": "U.S. aggregate bonds",
+      "asOf": "2026-09-15",
+      "price": 71.135,
+      "weekChange": -1.0502,
+      "drawdown": -3.1238,
+      "source": "https://query1.finance.yahoo.com/v8/finance/chart/BND?range=1y&interval=1d"
+    },
+    {
+      "symbol": "INR=X",
+      "name": "USD to INR",
+      "asOf": "2026-09-15",
+      "price": 95.849,
+      "weekChange": 1.4362,
+      "drawdown": null,
+      "source": "https://query1.finance.yahoo.com/v8/finance/chart/INR%3DX?range=1y&interval=1d"
+    }
+  ],
+  "errors": []
+}
