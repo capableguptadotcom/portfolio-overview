@@ -1,48 +1,48 @@
 {
-  "fetchedAt": "2026-09-15T20:18:02Z",
+  "fetchedAt": "2026-09-20T23:14:37Z",
   "assets": [
     {
       "symbol": "VTI",
       "name": "U.S. total stock market",
-      "asOf": "2026-09-15",
-      "price": 372.84,
-      "weekChange": -1.2606,
-      "drawdown": -2.982,
+      "asOf": "2026-09-18",
+      "price": 375.43,
+      "weekChange": -0.2339,
+      "drawdown": -2.3081,
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/VTI?range=1y&interval=1d"
     },
     {
       "symbol": "VXUS",
       "name": "International stocks",
-      "asOf": "2026-09-15",
-      "price": 85.69,
-      "weekChange": -2.7134,
-      "drawdown": -3.0766,
+      "asOf": "2026-09-18",
+      "price": 85.88,
+      "weekChange": -1.2679,
+      "drawdown": -2.6862,
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/VXUS?range=1y&interval=1d"
     },
     {
       "symbol": "QQQM",
       "name": "Nasdaq-100",
-      "asOf": "2026-09-15",
-      "price": 290.09,
-      "weekChange": -1.9171,
-      "drawdown": -5.4696,
+      "asOf": "2026-09-18",
+      "price": 296.91,
+      "weekChange": 0.856,
+      "drawdown": -3.2472,
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/QQQM?range=1y&interval=1d"
     },
     {
       "symbol": "BND",
       "name": "U.S. aggregate bonds",
-      "asOf": "2026-09-15",
-      "price": 71.15,
-      "weekChange": -1.0293,
-      "drawdown": -3.1033,
+      "asOf": "2026-09-18",
+      "price": 71.2,
+      "weekChange": -0.0281,
+      "drawdown": -3.0352,
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/BND?range=1y&interval=1d"
     },
     {
       "symbol": "INR=X",
       "name": "USD to INR",
-      "asOf": "2026-09-15",
-      "price": 95.849,
-      "weekChange": 1.4362,
+      "asOf": "2026-09-20",
+      "price": 95.863,
+      "weekChange": 0.8736,
       "drawdown": null,
       "source": "https://query1.finance.yahoo.com/v8/finance/chart/INR%3DX?range=1y&interval=1d"
     }
